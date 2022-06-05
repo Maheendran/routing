@@ -1,0 +1,10 @@
+.butncolr{
+
+    background-color: red;
+    border: 0px;
+    display: block;
+    margin-top: 20px;
+    margin: auto;
+    padding: 20px;
+    gap: 20px;
+}
